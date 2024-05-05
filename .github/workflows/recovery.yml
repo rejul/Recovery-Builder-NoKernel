@@ -3,7 +3,7 @@ name: Building recovery
 on:
 #  release:
 #    types: [published]
-#  push:
+   push:
 #    branches:#
 #      - master
 #    paths:
